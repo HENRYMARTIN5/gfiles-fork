@@ -1,8 +1,5 @@
-
-
 # Game files
 
-Bundles some HTML5 games, flash games through ruffle (swfs are [here](https://github.com/BinBashBanana/gstore)), and [webretro](https://github.com/BinBashBanana/webretro).
+It's a bunch of games.
 
 Indexed using the python script included.
-
